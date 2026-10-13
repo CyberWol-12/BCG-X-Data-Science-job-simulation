@@ -1,8 +1,7 @@
 
 # Customer Churn Prediction | BCG X Data Science Job Simulation
 
-> A customer-churn analysis and classification project completed as part of the BCG X Data Science Job Simulation on Forage.
-
+> A customer-churn analysis and classification project .
 ## Project Overview
 
 The goal of this project is to explore customer and pricing data for an energy company, engineer features, and train a machine-learning model to predict whether a customer will churn.
@@ -207,6 +206,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## Acknowledgement
+## Author:-
 
-This project was completed as part of the **BCG X Data Science Job Simulation on Forage**, providing practical experience in applying data science techniques to a customer churn prediction problem.
+**Divya**,**junior_DataScientist** **for_this_projest**
